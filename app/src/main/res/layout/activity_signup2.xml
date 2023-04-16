@@ -96,7 +96,6 @@
                 android:textSize="18sp"
                 android:textStyle="bold"
                 android:layout_toEndOf="@+id/tv_do_you_have_an_account"
-
                 />
 
 
