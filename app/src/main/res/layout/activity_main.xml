@@ -12,7 +12,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="60dp"
             android:layout_marginStart="10dp"
-            android:text="@string/welcomeClass"
+            android:text="Welcome"
             android:textColor="#000000"
             android:textSize="20sp"
             android:textStyle="bold"
@@ -33,7 +33,7 @@
             android:hint="@string/hint_username"
             android:layout_marginLeft="30dp"
             android:padding="15dp"
-            android:layout_marginStart="30dp"
+            android:layout_marginRight="30dp"
             android:background="@drawable/custom_edit_text"
 
             />
@@ -44,7 +44,7 @@
             android:hint="Password"
             android:layout_marginLeft="30dp"
             android:padding="15dp"
-            android:layout_marginStart="30dp"
+            android:layout_marginRight="30dp"
             android:inputType="textPassword"
             android:background="@drawable/custom_edit_text"
 
@@ -53,8 +53,8 @@
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:layout_marginTop="300dp"
-            android:layout_marginLeft="90dp"
-            android:layout_marginStart="90dp"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
             android:background="#6153C3"
             android:text="Get Start"
             android:textAllCaps="false"
